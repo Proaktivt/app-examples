@@ -7,6 +7,8 @@ This plugin is an example of syncing data on board with Google Sheets
 You need to serve `spreadsheet-sync` folder on the server through https, one of the easiest ways to do it is to fork
 this repo and use [GitHub Pages](https://pages.github.com/) to serve it.
 
+(Här! Kopiera in denna!)
+
 Next step is to create an application in miro, you can use this [guid](https://developers.miro.com/docs/getting-started)
 it will help you.
 
